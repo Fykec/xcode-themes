@@ -44,4 +44,6 @@ My absolute favorite!
 3. Enjoy.
 
 ## Convert Xcode3 theme to xcode4
-1. python xcode3_theme_to_xcode4.py Twilight.xcolortheme
+```base
+$ python xcode3_theme_to_xcode4.py Twilight.xcolortheme
+```

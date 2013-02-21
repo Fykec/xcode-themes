@@ -42,3 +42,6 @@ My absolute favorite!
 1. Copy the theme(s) to the Xcode's `FontAndColorThemes` folder (`~/Library/Developer/Xcode/UserData/FontAndColorThemes/`).
 2. Restart Xcode.
 3. Enjoy.
+
+## Convert Xcode3 theme to xcode4
+![Converter](http://luoyl.info/blog/2012/08/import-new-themes-for-xcode4/)
